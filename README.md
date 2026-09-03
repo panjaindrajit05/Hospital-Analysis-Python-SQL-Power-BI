@@ -9,11 +9,17 @@ Python → SQL Server → Power BI
 
 🎯 Objectives
 Analyze patient demographics
+
 Analyze medical conditions
+
 Compare hospitals
+
 Analyze billing and length of stay
+
 Analyze insurance and medications
+
 Identify useful healthcare insights
+
 🛠️ Tools Used
 Python
 Pandas & NumPy
