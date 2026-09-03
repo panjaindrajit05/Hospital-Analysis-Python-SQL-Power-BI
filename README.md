@@ -72,7 +72,8 @@ The dashboard contains **3 pages**:
 - Medication-wise Patients
 - Insurance-wise Average Billing
 
-🔗 **[View Dashboard Overview]([YOUR_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiYjIwYmJlNWYtNzY0OC00YmRmLWFjMTItNWIzMmMzOGMzMTIxIiwidCI6ImY1MjhlZmFhLTgwNjMtNDNkYi1iODI4LTUxZjNiMzYyODcxZSJ9))**
+🔗 **[View Dashboard Overview]
+https://app.powerbi.com/view?r=eyJrIjoiYjIwYmJlNWYtNzY0OC00YmRmLWFjMTItNWIzMmMzOGMzMTIxIiwidCI6ImY1MjhlZmFhLTgwNjMtNDNkYi1iODI4LTUxZjNiMzYyODcxZSJ9
 
 ## 🔄 Project Workflow
 
