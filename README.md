@@ -72,8 +72,20 @@ The dashboard contains **3 pages**:
 - Medication-wise Patients
 - Insurance-wise Average Billing
 
-🔗 **[View Dashboard Overview]
+🔗  Dashboard Overview
+
 https://app.powerbi.com/view?r=eyJrIjoiYjIwYmJlNWYtNzY0OC00YmRmLWFjMTItNWIzMmMzOGMzMTIxIiwidCI6ImY1MjhlZmFhLTgwNjMtNDNkYi1iODI4LTUxZjNiMzYyODcxZSJ9
+
+## 🤖 ChatGPT Assistance
+
+ChatGPT was used as an AI assistant during this project to help with:
+
+- 🧹 Data cleaning guidance
+- 📊 Exploratory Data Analysis (EDA)
+- 🧮 DAX calculations
+- 📈 Power BI dashboard ideas
+- 🎨 Visualization and dashboard design suggestions
+
 
 ## 🔄 Project Workflow
 
